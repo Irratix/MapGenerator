@@ -1,0 +1,2 @@
+# MapGenerator
+It generates maps
